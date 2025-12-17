@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                // Modern JS çıktısı
+    "module": "CommonJS",              // Node uyumlu modül sistemi
+    "declaration": true,               // .d.ts tip dosyaları üret
+    "outDir": "dist",                  // Derlenmiş dosyaların çıkış klasörü
+    "rootDir": "src",                  // Kaynak kod kök klasörü
+    "strict": true,                    // Katı tip kontrolü
+    "esModuleInterop": true,           // ES module uyumluluğu
+    "resolveJsonModule": true,         // JSON dosyalarını import edebilmek için
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"],                  // Derlenecek dosyalar
+  "exclude": ["node_modules", "dist"]  // Hariç tutulacak klasörler
+}
