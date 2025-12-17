@@ -1,0 +1,30 @@
+{
+  "name": "@alim/i18n",
+  "version": "0.2.0",
+  "description": "Multi-language pack for Vite, Expo, Electron (TR-tr, en-GB, en-US, ko-KR, es-MX, zh-CN, zh-TW, ja-JP, otk)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alim12586/-alim-i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "vite",
+    "expo",
+    "electron",
+    "music-learning",
+    "alim"
+  ],
+  "author": "ALİM",
+  "license": "MIT",
+  "dependencies": {
+    "i18next": "^23.10.0",
+    "react-i18next": "^15.0.0",
+    "i18next-icu": "^3.0.0"
+  }
+}
