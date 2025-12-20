@@ -1,1 +1,27 @@
-
+{
+  "welcome": "Hoş geldiniz",
+  "language": "Dil",
+  "settings": "Ayarlar",
+  "save": "Kaydet",
+  "cancel": "İptal",
+  "yes": "Evet",
+  "no": "Hayır",
+  "hello_user": "Merhaba {{name}}",
+  "logout": "Çıkış yap",
+  "login": "Giriş yap",
+  "search": "Ara",
+  "loading": "Yükleniyor...",
+  "error": "Bir hata oluştu",
+  "success": "İşlem başarılı",
+  "retry": "Tekrar dene",
+  "next": "Sonraki",
+  "previous": "Önceki",
+  "home": "Ana sayfa",
+  "profile": "Profil",
+  "about": "Hakkında",
+  "contact": "İletişim",
+  "created_at": "{{date}} tarihinde oluşturuldu",
+  "items_count": "{{count}} öğe mevcut",
+  "plural_example": "{{count}} mesaj",
+  "plural_example_plural": "{{count}} mesajlar"
+}
