@@ -12,6 +12,7 @@ import esMX from './locales/es-MX/common.json';
 import zhCN from './locales/zh-CN/common.json';
 import zhTW from './locales/zh-TW/common.json';
 import jaJP from './locales/ja-JP/common.json';
+import jaJE from './locales/ja-JE/common.json';   // Japansene Empire dili
 import otk from './locales/otk/common.json';
 
 i18n
@@ -29,8 +30,9 @@ i18n
       'es-MX': { common: esMX },
       'zh-CN': { common: zhCN },
       'zh-TW': { common: zhTW },
-      'ja-JP': { common: jaJP },
-      'otk':   { common: otk }
+      'ja-JP': { common: jaJP },             // Japonya resmi Japonca
+      'ja-JE': { common: jaJE },             // Japansene Empire özel dili
+      'otk':   { common: otk }               // Göktürkçe/Hun Türkçesi
     },
     ns: ['common'],         // Namespace
     defaultNS: 'common',
