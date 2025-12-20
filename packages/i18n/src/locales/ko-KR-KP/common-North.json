@@ -1,0 +1,23 @@
+{
+  "welcome": "환영합니다 (조선)",
+  "language": "언어",
+  "settings": "설정",
+  "save": "저장",
+  "cancel": "취소",
+  "yes": "예",
+  "no": "아니요",
+  "hello_user": "안녕하십니까 {{name}}",
+  "logout": "로그아웃",
+  "login": "로그인",
+  "search": "검색",
+  "loading": "불러오는 중...",
+  "error": "오류가 발생했습니다",
+  "success": "성공적으로 완료되었습니다",
+  "retry": "다시 시도",
+  "next": "다음",
+  "previous": "이전",
+  "home": "홈",
+  "profile": "프로필",
+  "about": "소개",
+  "contact": "연락처"
+}
