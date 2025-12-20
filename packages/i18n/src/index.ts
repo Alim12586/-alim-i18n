@@ -3,10 +3,11 @@ import { initReactI18next } from 'react-i18next';
 import ICU from 'i18next-icu';
 
 // Dil dosyalarını import et
+import koSouth from './locales/ko-KR-KP/common-South.json';
+import koNorth from './locales/ko-KR-KP/common-North.json';
 import tr from './locales/tr-TR/common.json';
 import enGB from './locales/en-GB/common.json';
 import enUS from './locales/en-US/common.json';
-import koKR from './locales/ko-KR/common.json';
 import esMX from './locales/es-MX/common.json';
 import zhCN from './locales/zh-CN/common.json';
 import zhTW from './locales/zh-TW/common.json';
@@ -23,7 +24,8 @@ i18n
       'tr-TR': { common: tr },
       'en-GB': { common: enGB },
       'en-US': { common: enUS },
-      'ko-KR': { common: koKR },
+      'ko-KR-KP-South': { common: koSouth }, // Güney Kore varyantı
+      'ko-KR-KP-North': { common: koNorth }, // Kuzey Kore varyantı
       'es-MX': { common: esMX },
       'zh-CN': { common: zhCN },
       'zh-TW': { common: zhTW },
