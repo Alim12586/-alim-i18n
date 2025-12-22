@@ -1,0 +1,23 @@
+{
+  "welcome": "Bienvenido",
+  "language": "Idioma",
+  "settings": "Configuración",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "yes": "Sí",
+  "no": "No",
+  "hello_user": "Hola {{name}}",
+  "logout": "Cerrar sesión",
+  "login": "Iniciar sesión",
+  "search": "Buscar",
+  "loading": "Cargando...",
+  "error": "Ocurrió un error",
+  "success": "Operación exitosa",
+  "retry": "Reintentar",
+  "next": "Siguiente",
+  "previous": "Anterior",
+  "home": "Inicio",
+  "profile": "Perfil",
+  "about": "Acerca de",
+  "contact": "Contacto"
+}
