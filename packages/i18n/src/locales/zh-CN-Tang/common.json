@@ -1,0 +1,23 @@
+{
+  "welcome": "欢迎来到大唐",
+  "language": "唐语",
+  "settings": "设定",
+  "save": "保存",
+  "cancel": "取消",
+  "yes": "是",
+  "no": "否",
+  "hello_user": "大唐子民 {{name}}，平安",
+  "logout": "退朝",
+  "login": "入朝",
+  "search": "搜寻",
+  "loading": "载入中...",
+  "error": "发生差错",
+  "success": "操作成功",
+  "retry": "再试",
+  "next": "下一步",
+  "previous": "上一步",
+  "home": "府邸",
+  "profile": "档案",
+  "about": "关于大唐",
+  "contact": "联络"
+}
