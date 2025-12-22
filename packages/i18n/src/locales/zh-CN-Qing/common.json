@@ -1,0 +1,23 @@
+{
+  "welcome": "欢迎来到大清",
+  "language": "国语",
+  "settings": "设定",
+  "save": "存档",
+  "cancel": "取消",
+  "yes": "是",
+  "no": "否",
+  "hello_user": "大清子民 {{name}}，安好",
+  "logout": "退朝",
+  "login": "入朝",
+  "search": "搜寻",
+  "loading": "载入中...",
+  "error": "发生差错",
+  "success": "操作成功",
+  "retry": "再试",
+  "next": "下一步",
+  "previous": "上一步",
+  "home": "府邸",
+  "profile": "档案",
+  "about": "关于大清",
+  "contact": "联络"
+}
