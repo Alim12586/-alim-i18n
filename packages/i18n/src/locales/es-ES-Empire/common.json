@@ -1,0 +1,23 @@
+{
+  "welcome": "Bienvenido al Imperio Español",
+  "language": "Lengua Imperial",
+  "settings": "Ajustes del Imperio",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "yes": "Sí",
+  "no": "No",
+  "hello_user": "Saludos, ciudadano del Imperio {{name}}",
+  "logout": "Salir del Imperio",
+  "login": "Entrar al Imperio",
+  "search": "Buscar en los archivos imperiales",
+  "loading": "Cargando...",
+  "error": "Ha ocurrido un error en el Imperio",
+  "success": "Acción completada con éxito",
+  "retry": "Intentar de nuevo",
+  "next": "Siguiente",
+  "previous": "Anterior",
+  "home": "Palacio",
+  "profile": "Perfil Imperial",
+  "about": "Acerca del Imperio",
+  "contact": "Contacto Imperial"
+}
