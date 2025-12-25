@@ -1,0 +1,12 @@
+{
+  "welcome": "Bienvenido",
+  "language": "Lengua",
+  "settings": "Ajustes",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "yes": "Sí",
+  "no": "No",
+  "hello_user": "Hola {{name}}",
+  "logout": "Cerrar sesión",
+  "login": "Iniciar sesión"
+}
