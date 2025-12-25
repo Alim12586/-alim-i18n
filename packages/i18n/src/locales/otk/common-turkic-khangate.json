@@ -1,0 +1,18 @@
+{
+  "music": {
+    "old_turkic": "𐰴𐰆𐰢𐰀𐰤",
+    "meaning": "küme / ses topluluğu"
+  },
+  "success": {
+    "old_turkic": "𐰆𐰺𐰆𐰣",
+    "meaning": "uruŋ / parlak, iyi, başarılı"
+  },
+  "error": {
+    "old_turkic": "𐰖𐰞𐰃𐰸",
+    "meaning": "yalŋïš / yanlış, hata"
+  },
+  "hello_user": {
+    "old_turkic": "𐰔𐰃𐰤𐰃𐰏 𐰴𐰃𐰽𐰃",
+    "meaning": "esïŋ kïši / merhaba kişi"
+  }
+}
