@@ -1,0 +1,18 @@
+{
+  "music": {
+    "chinese": "音乐",
+    "xiongnu_proto": "Ŋïŋläk"
+  },
+  "success": {
+    "chinese": "成功",
+    "xiongnu_proto": "Uruŋ"
+  },
+  "error": {
+    "chinese": "错误",
+    "xiongnu_proto": "Yalŋïš"
+  },
+  "hello_user": {
+    "chinese": "你好 用户",
+    "xiongnu_proto": "Esïŋ kïši"
+  }
+}
